@@ -9,7 +9,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="text-2xl font-bold text-purple-600 flex items-center">
             <Cake className="mr-2" />
-            KidPartyPro
+            Bday
           </Link>
           <div className="flex space-x-4">
             <Link to="/" className="text-gray-700 hover:text-purple-600 transition duration-300">Home</Link>
